@@ -4,7 +4,7 @@
 
 <html>
 	<head>
-		<title>Future Imperfect by HTML5 UP</title>
+		<title>ROSABLOOM</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" type="text/css" href="/resources/assets/css/main.css" />
@@ -16,13 +16,13 @@
 
 				<!-- Header -->
 					<header id="header">
-						<h1><a href="index.html">Future Imperfect</a></h1>
+						<h1><a href="index.html">ROSABLOOM</a></h1>
 						<nav class="links">
 							<ul>
-								<li><a href="#">꽃다발(Bouquet)</a></li>
+								<li><a href="#">꽃다발(Handtied Bouquet)</a></li>
 								<li><a href="#">꽃바구니(Flower Basket)</a></li>
 								<li><a href="#">센터피스(Center Piece)</a></li>
-								<li><a href="#">웨딩(Wedding Decoration)</a></li>
+								<li><a href="#">웨딩(Wedding Bouquet&Decoration)</a></li>
 								<li><a href="#">이벤트 장식(Event Decoration)</a></li>
 							</ul>
 						</nav>
@@ -56,25 +56,31 @@
 								<ul class="links">
 									<li>
 										<a href="#">
-											<h3>Lorem ipsum</h3>
+											<h3>꽃다발(Handtied Bouquet)</h3>
 											<p>Feugiat tempus veroeros dolor</p>
 										</a>
 									</li>
 									<li>
 										<a href="#">
-											<h3>Dolor sit amet</h3>
+											<h3>꽃바구니(Flower Basket)</h3>
 											<p>Sed vitae justo condimentum</p>
 										</a>
 									</li>
 									<li>
 										<a href="#">
-											<h3>Feugiat veroeros</h3>
+											<h3>센터피스(Center Piece)</h3>
 											<p>Phasellus sed ultricies mi congue</p>
 										</a>
 									</li>
 									<li>
 										<a href="#">
-											<h3>Etiam sed consequat</h3>
+											<h3>웨딩(Wedding Bouquet&Decoration)</h3>
+											<p>Porta lectus amet ultricies</p>
+										</a>
+									</li>
+									<li>
+										<a href="#">
+											<h3>이벤트 장식(Event Decoration)</h3>
 											<p>Porta lectus amet ultricies</p>
 										</a>
 									</li>
@@ -97,25 +103,27 @@
 							<article class="post">
 								<header>
 									<div class="title">
-										<h2><a href="single.html">Magna sed adipiscing</a></h2>
-										<p>Lorem ipsum dolor amet nullam consequat etiam feugiat</p>
+										<h2><a href="single.html">미니 꽃바구니 _ 01</a></h2>
+										<p>미니 인초타원 꽃바구니</p>
 									</div>
 									<div class="meta">
-										<time class="published" datetime="2015-11-01">November 1, 2015</time>
-										<a href="#" class="author"><span class="name">Jane Doe</span><img src="/resources/images/babyapeach_1.jpg" alt="" /></a>
+										<time class="published" datetime="2015-11-01">2019.05.15</time>
+										<a href="#" class="author"><span class="name">Olivia Hapburn</span><img src="/resources/images/babyapeach_1.jpg" alt="" /></a>
 									</div>
 								</header>
 								<a href="single.html" class="image featured"><img src="/resources/images/flowerBasket_1.0.JPEG" alt="" /></a>
-								<p>Mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+								<p>
+									미니 인초타원 바구니에 하이페리쿰, 부바르디아, 루스커스, 조팝, 수국, 라넌큘러스, 맨스필드파크장미 등을 조화 롭게 꽃꽂이 하여 연출 하였습니다.
+								</p>
 								<footer>
 									<ul class="actions">
 										<li><a href="single.html" class="button large">Continue Reading</a></li>
 									</ul>
-									<ul class="stats">
+									<!-- <ul class="stats">
 										<li><a href="#">General</a></li>
 										<li><a href="#" class="icon fa-heart">28</a></li>
 										<li><a href="#" class="icon fa-comment">128</a></li>
-									</ul>
+									</ul> -->
 								</footer>
 							</article>
 
@@ -186,8 +194,8 @@
 							<section id="intro">
 								<a href="#" class="logo"><img src="/resources/images/logo_1.jpg" alt="" /></a>
 								<header>
-									<h2>Future Imperfect</h2>
-									<p>Another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a></p>
+									<h2>ROSABLOOM <p>FLOWER_Atelier</p></h2>
+									<p>로사블룸은 자연적인 느낌을 살린 유럽피언 스타일의 작품을 지양합니다.</p>
 								</header>
 							</section>
 
